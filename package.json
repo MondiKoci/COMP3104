@@ -8,7 +8,7 @@
     "build": "react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "test": "echo \"Warhing. No tests created yet.\"",
+    "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
   "repository": {
@@ -33,7 +33,7 @@
   "eslintConfig":{
     "extends": "react-app"
   },
-  "browserslist": [
+  "browserslist":[
     ">0.2%",
     "not dead",
     "not ie <= 11",

@@ -17,7 +17,7 @@ install:
 
 script:
   #- yarn lint
-  - npm build
+  - yarn build
   #- mv build/index.html build/404.html
   
 deploy:

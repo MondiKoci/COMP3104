@@ -1,13 +1,13 @@
 {
-  "main.css": "/MondiKoci/Comp3104/static/css/main.406a9054.chunk.css",
-  "main.js": "/MondiKoci/Comp3104/static/js/main.36440761.chunk.js",
-  "main.js.map": "/MondiKoci/Comp3104/static/js/main.36440761.chunk.js.map",
+  "main.css": "/MondiKoci/Comp3104/static/css/main.d0f7c7b3.chunk.css",
+  "main.js": "/MondiKoci/Comp3104/static/js/main.2cc45a60.chunk.js",
+  "main.js.map": "/MondiKoci/Comp3104/static/js/main.2cc45a60.chunk.js.map",
   "runtime~main.js": "/MondiKoci/Comp3104/static/js/runtime~main.ed7dc9cc.js",
   "runtime~main.js.map": "/MondiKoci/Comp3104/static/js/runtime~main.ed7dc9cc.js.map",
   "static/js/2.8ebec04f.chunk.js": "/MondiKoci/Comp3104/static/js/2.8ebec04f.chunk.js",
   "static/js/2.8ebec04f.chunk.js.map": "/MondiKoci/Comp3104/static/js/2.8ebec04f.chunk.js.map",
   "index.html": "/MondiKoci/Comp3104/index.html",
-  "precache-manifest.9f04a4813fddde8f52336ac98ca11fcb.js": "/MondiKoci/Comp3104/precache-manifest.9f04a4813fddde8f52336ac98ca11fcb.js",
+  "precache-manifest.d029cfa42f220e63a23dabd8432975ac.js": "/MondiKoci/Comp3104/precache-manifest.d029cfa42f220e63a23dabd8432975ac.js",
   "service-worker.js": "/MondiKoci/Comp3104/service-worker.js",
-  "static/css/main.406a9054.chunk.css.map": "/MondiKoci/Comp3104/static/css/main.406a9054.chunk.css.map"
+  "static/css/main.d0f7c7b3.chunk.css.map": "/MondiKoci/Comp3104/static/css/main.d0f7c7b3.chunk.css.map"
 }

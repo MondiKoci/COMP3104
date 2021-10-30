@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider;  react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "test": "echo \"Warhing. No tests created yet.\"",
+    "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
   "repository": {
@@ -30,7 +30,7 @@
     "travis": "^0.1.1",
     "yarn": "^1.0.0"
   },
-  "eslintConfig":{
+  "eslintConfig": {
     "extends": "react-app"
   },
   "browserslist": [

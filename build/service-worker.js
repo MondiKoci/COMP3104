@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MondiKoci/Comp3104/precache-manifest.9f04a4813fddde8f52336ac98ca11fcb.js"
+  "/MondiKoci/Comp3104/precache-manifest.d029cfa42f220e63a23dabd8432975ac.js"
 );
 
 workbox.clientsClaim();

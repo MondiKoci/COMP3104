@@ -1,4 +1,5 @@
 language: node_js
+
 node_js:
   - "stable"
 
@@ -16,7 +17,7 @@ install:
 
 script:
   #- yarn lint
-  - yarn build
+  - npm build
   #- mv build/index.html build/404.html
   
 deploy:
